@@ -1,0 +1,14 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+chromadb
+langchain_community
+langchain_openai
+tiktoken
+docx2txt
+pypdf
+requests
+aiohttp
+pyYAML
+
