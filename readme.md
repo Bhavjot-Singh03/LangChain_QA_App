@@ -5,7 +5,7 @@ Implements a Retrieval Augmented Generation(RAG) app utilizing LangChain and Str
 1. File QA -> Upload your document and ask questions about it
    
 
-<h2 style="color: Green;">Interface</h2>
+<h2 style="color: Green;">File question answering system</h2>
 
 Configuration:
 ![configuration](https://github.com/user-attachments/assets/a416e656-0b1e-433c-83ff-adc81331a800)
